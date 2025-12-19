@@ -1,0 +1,16 @@
+Полезные ресурсы по Git и GitHub:
+
+1. Официальная документация Git
+   https://git-scm.com/doc
+
+2. Интерактивный учебник по Git (Learn Git Branching)
+   https://learngitbranching.js.org/
+
+3. GitHub Learning Lab (бесплатные курсы)
+   https://lab.github.com/
+
+4. Шпаргалка по основным командам Git
+   https://education.github.com/git-cheat-sheet-education.pdf
+
+5. Обзор системы контроля версий (видео от Computer Science Center)
+   https://www.youtube.com/watch?v=e0gOoRMWX-s
